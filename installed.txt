@@ -1,0 +1,14 @@
+ImportCost
+String Manipulation
+cn.yiiguxing.plugin.translate
+com.alicannklc.laravel.snippets
+com.arcticicestudio.nord.jetbrains
+com.intellij.ideolog
+com.jetbrains.codeWithMe
+com.kalessil.phpStorm.phpInspectionsEA
+de.espend.idea.laravel
+de.espend.idea.php.annotation
+de.lukweb.discordbeam
+net.king2500.plugins.PhpAdvancedAutoComplete
+org.zalando.intellij.swagger
+ru.adelf.idea.dotenv
