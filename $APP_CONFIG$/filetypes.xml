@@ -1,0 +1,14 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="ConversationRepository" type="PHP" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern="DOCKERFİLE" type="PLAIN_TEXT" />
+      <mapping ext="neon" type="PLAIN_TEXT" />
+      <mapping ext="d" type="PLAIN_TEXT" />
+      <mapping ext="cnf" type="PLAIN_TEXT" />
+      <removed_mapping ext="graphql" approved="true" type="Native" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+    </extensionMap>
+  </component>
+</application>
