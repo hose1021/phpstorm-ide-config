@@ -2024,6 +2024,11 @@
                       <FeaturePluginData displayName="PHPUnit" pluginName="PHP" pluginId="com.jetbrains.php" />
                     </value>
                   </entry>
+                  <entry key="PestRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Pest" pluginName="Pest" pluginId="com.pestphp.pest-intellij" />
+                    </value>
+                  </entry>
                   <entry key="PhpBehatConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Behat" pluginName="Behat Support" pluginId="com.jetbrains.php.behat" />
