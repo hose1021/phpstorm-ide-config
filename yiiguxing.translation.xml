@@ -1,0 +1,28 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogX" value="760" />
+    <option name="newTranslationDialogY" value="457" />
+    <histories>
+      <item value="Fəaliyyət" />
+      <item value="Информация" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="2" />
+        <entry key="AZERBAIJANI" value="1" />
+        <entry key="RUSSIAN" value="2" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1612167742737" />
+  </component>
+  <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
+  </component>
+</application>
