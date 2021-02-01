@@ -10,7 +10,7 @@
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="2" />
-        <entry key="AZERBAIJANI" value="1" />
+        <entry key="AZERBAIJANI" value="2" />
         <entry key="RUSSIAN" value="2" />
       </map>
     </option>
@@ -24,5 +24,6 @@
         <option name="useTranslateGoogleCom" value="true" />
       </google-translate>
     </option>
+    <option name="targetLanguageSelection" value="PRIMARY_LANGUAGE" />
   </component>
 </application>
