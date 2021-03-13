@@ -27,4 +27,14 @@
       </list>
     </option>
   </component>
+  <component name="WordSettings">
+    <option name="schemes">
+      <list>
+        <WordScheme>
+          <option name="capitalization" value="first letter" />
+          <option name="enclosure" value="" />
+        </WordScheme>
+      </list>
+    </option>
+  </component>
 </application>
