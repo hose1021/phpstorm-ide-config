@@ -1,0 +1,30 @@
+<application>
+  <component name="DecimalSettings">
+    <option name="schemes">
+      <list>
+        <DecimalScheme>
+          <option name="decimalCount" value="5" />
+          <option name="maxValue" value="40.478" />
+          <option name="minValue" value="40.378" />
+          <option name="showTrailingZeroes" value="false" />
+        </DecimalScheme>
+      </list>
+    </option>
+  </component>
+  <component name="IntegerSettings">
+    <option name="schemes">
+      <list>
+        <IntegerScheme>
+          <option name="maxValue" value="49" />
+          <option name="minValue" value="40" />
+        </IntegerScheme>
+        <IntegerScheme>
+          <option name="base" value="16" />
+          <option name="maxValue" value="256" />
+          <option name="myName" value="Hex" />
+          <option name="prefix" value="0x" />
+        </IntegerScheme>
+      </list>
+    </option>
+  </component>
+</application>
