@@ -1,0 +1,20 @@
+<application>
+  <component name="DiscordApplicationSettings">
+    <option name="timeoutEnabled" value="false" />
+    <option name="timeoutMinutes" value="1" />
+    <option name="applicationDetailsCustom" value="" />
+    <option name="applicationStateCustom" value="" />
+    <option name="applicationIconLargeTextCustom" value="" />
+    <option name="applicationIconSmallTextCustom" value="" />
+    <option name="projectDetailsCustom" value="" />
+    <option name="projectState" value="PROJECT_NAME_VCS_BRANCH" />
+    <option name="projectStateCustom" value="" />
+    <option name="projectIconLargeTextCustom" value="" />
+    <option name="projectIconSmallTextCustom" value="" />
+    <option name="fileDetailsCustom" value="" />
+    <option name="fileStateCustom" value="" />
+    <option name="fileIconLargeTextCustom" value="" />
+    <option name="fileIconSmallTextCustom" value="" />
+    <option name="applicationLastUpdateNotification" value="1.6.1" />
+  </component>
+</application>
