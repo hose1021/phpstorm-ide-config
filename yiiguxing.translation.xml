@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="457" />
     <histories>
+      <item value="Время" />
       <item value="Fəaliyyət" />
       <item value="Информация" />
     </histories>
@@ -11,19 +12,22 @@
       <map>
         <entry key="ENGLISH" value="2" />
         <entry key="AZERBAIJANI" value="2" />
-        <entry key="RUSSIAN" value="2" />
+        <entry key="RUSSIAN" value="4" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1612167742737" />
+    <option name="lastTrimTime" value="1625989936536" />
   </component>
   <component name="Settings">
+    <option name="foldOriginal" value="true" />
     <option name="googleTranslateSettings">
       <google-translate>
         <option name="useTranslateGoogleCom" value="true" />
       </google-translate>
     </option>
+    <option name="keepFormat" value="true" />
+    <option name="showWordForms" value="false" />
     <option name="targetLanguageSelection" value="PRIMARY_LANGUAGE" />
   </component>
 </application>
