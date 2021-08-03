@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="457" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Доставка" />
       <item value="Направление" />
       <item value="Хрупкий" />
       <item value="liquid" />
@@ -16,9 +17,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="7" />
+        <entry key="ENGLISH" value="8" />
         <entry key="AZERBAIJANI" value="2" />
-        <entry key="RUSSIAN" value="8" />
+        <entry key="RUSSIAN" value="9" />
       </map>
     </option>
   </component>
