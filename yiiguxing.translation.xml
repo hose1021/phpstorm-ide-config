@@ -1,23 +1,29 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogWidth" value="594" />
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="457" />
+    <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Направление" />
+      <item value="Хрупкий" />
+      <item value="liquid" />
+      <item value="Жидкий" />
+      <item value="груз" />
       <item value="Время" />
       <item value="Fəaliyyət" />
       <item value="Информация" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="2" />
+        <entry key="ENGLISH" value="7" />
         <entry key="AZERBAIJANI" value="2" />
-        <entry key="RUSSIAN" value="4" />
+        <entry key="RUSSIAN" value="8" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1625989936536" />
+    <option name="lastTrimTime" value="1627992155640" />
   </component>
   <component name="Settings">
     <option name="foldOriginal" value="true" />
