@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="457" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Подсчитать" />
       <item value="Удалить" />
       <item value="Доставка" />
       <item value="Направление" />
@@ -21,13 +22,13 @@
       <map>
         <entry key="ENGLISH" value="8" />
         <entry key="AZERBAIJANI" value="2" />
-        <entry key="POLISH" value="40" />
-        <entry key="RUSSIAN" value="11" />
+        <entry key="POLISH" value="72" />
+        <entry key="RUSSIAN" value="12" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1627992155640" />
+    <option name="lastTrimTime" value="1629134634653" />
   </component>
   <component name="Settings">
     <option name="autoReplace" value="true" />
