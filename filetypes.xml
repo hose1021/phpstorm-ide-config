@@ -1,8 +1,8 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="wait-for" type="AUTO_DETECTED" />
       <mapping pattern="crontab" type="AUTO_DETECTED" />
+      <mapping pattern="wait-for" type="AUTO_DETECTED" />
       <mapping pattern="ConversationRepository" type="PHP" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="DOCKERFİLE" type="PLAIN_TEXT" />
