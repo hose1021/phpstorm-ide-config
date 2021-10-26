@@ -1,6 +1,6 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="&quot;cmd&quot; /k &quot;C:\cmder\vendor\init.bat&quot;" />
+    <option name="myShellPath" value="D:\Program Files\Git\bin\bash.exe" />
     <option name="myTabName" value="Local" />
   </component>
 </application>
