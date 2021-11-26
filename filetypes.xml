@@ -1,17 +1,12 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="crontab" type="AUTO_DETECTED" />
-      <mapping pattern="wait-for" type="AUTO_DETECTED" />
-      <mapping pattern="ConversationRepository" type="PHP" />
-      <mapping pattern="Procfile" type="PLAIN_TEXT" />
-      <mapping pattern="DOCKERFİLE" type="PLAIN_TEXT" />
-      <mapping ext="neon" type="PLAIN_TEXT" />
-      <mapping ext="d" type="PLAIN_TEXT" />
-      <mapping ext="pub" type="PLAIN_TEXT" />
-      <mapping ext="dist" type="PLAIN_TEXT" />
-      <mapping ext="cnf" type="PLAIN_TEXT" />
-      <removed_mapping ext="graphql" approved="true" type="Native" />
+      <mapping ext=".tabnine.model" type="Tabnine project model file" />
+      <mapping ext=".tabnine" type="Tabnine project model file" />
+      <mapping ext=".model" type="Tabnine project model file" />
+      <mapping ext="tabnine" type="Tabnine project model file" />
+      <mapping ext="model" type="Tabnine project model file" />
+      <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
     </extensionMap>
   </component>

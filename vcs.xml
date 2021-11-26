@@ -3,18 +3,6 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
-          <option name="url" value="http://bitbucket.org" />
-          <option name="userName" value="hose1021" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://github.com" />
-          <option name="userName" value="hose1021" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://gitlab.com" />
-          <option name="userName" value="hose1021" />
-        </UrlAndUserName>
-        <UrlAndUserName>
           <option name="url" value="http://40.85.90.154:3000" />
           <option name="userName" value="mikail.h" />
         </UrlAndUserName>
